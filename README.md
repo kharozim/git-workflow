@@ -8,3 +8,6 @@
 ## Education
 - 2015-2020         : Universitas Pelita bangsa (Information Technology)
 - 2011-2014         : Smk Negeri 2 Bojonegoro   (Computer and network Engineering)
+
+## favorite food
+- fried rice
