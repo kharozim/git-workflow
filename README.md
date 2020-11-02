@@ -1,3 +1,1 @@
-#Belajar GIT
 
-### Git initialization
